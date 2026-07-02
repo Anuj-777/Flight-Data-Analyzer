@@ -1,0 +1,16 @@
+=============================================
+      FLIGHT DATA ANALYZER REPORT
+=============================================
+
+Maximum Altitude (m)               : 681.28
+Maximum Velocity (m/s)             : 127.73
+Maximum Acceleration (m/s²)        : 313.46
+Simulation Duration (s)            : 600.00
+Minimum Altitude (m)               : 72.56
+Average Altitude (m)               : 415.72
+Minimum Velocity (m/s)             : -0.00
+Average Velocity (m/s)             : 51.70
+Minimum Acceleration (m/s²)        : -0.00
+Average Acceleration (m/s²)        : 31.28
+
+=============================================
