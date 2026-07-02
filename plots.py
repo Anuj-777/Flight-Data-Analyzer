@@ -23,7 +23,7 @@ def plot_altitude(data):
 
     plt.tight_layout()
 
-    plt.savefig("screenshots/flight_dashboard.png")
+    plt.savefig("screenshots/altitude_vs_time.png")
 
     plt.show()
 
@@ -41,7 +41,7 @@ def plot_velocity(data):
     plt.ylabel("Velocity (m/s)")
     plt.grid(True)
     plt.legend()
-    plt.savefig("screenshots/flight_dashboard.png")
+    plt.savefig("screenshots/velocity_vs_time.png")
     plt.show()
 
 def plot_acceleration(data):
@@ -58,6 +58,6 @@ def plot_acceleration(data):
     plt.ylabel("Acceleration (m/s²)")
     plt.grid(True)
     plt.legend()
-    plt.savefig("screenshots/flight_dashboard.png")
+    plt.savefig("screenshots/acceleration_vs_time.png")
 
     plt.show()
